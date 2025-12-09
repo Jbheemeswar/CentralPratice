@@ -1,0 +1,8 @@
+touch
+cd
+cp
+mv
+ls -ltrh
+cat
+vi
+
